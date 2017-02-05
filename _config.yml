@@ -1,0 +1,25 @@
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.6259183527436107
+  lightness: 0.3245614191982895
+  saturation: 0.8888117927126586
+  rhythmicContrast: 0.3192435584496707
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: trangnguyen
+layout_spectrum: 0.5757289251778275
+typography_spectrum: 0.24572962988168
+content: []
+github: true
+title: Trang Nguyen
+description: ''
