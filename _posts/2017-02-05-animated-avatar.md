@@ -26,8 +26,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://codepen.io/Trangbnguyen/pen/bZjdkp'
 title: Animated Avatar
-datePublished: '2017-02-05T06:18:07.677Z'
-dateModified: '2017-02-05T06:16:05.243Z'
+datePublished: '2017-02-13T15:56:53.367Z'
+dateModified: '2017-02-13T15:56:52.456Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-05-animated-avatar.md
