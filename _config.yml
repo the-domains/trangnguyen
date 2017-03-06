@@ -23,3 +23,7 @@ content: []
 github: true
 title: Trang Nguyen
 description: Under Construction
+purpose:
+  - type: internal
+    label: Projects
+    item: 06f1633c-c9e5-4cf5-8299-f024072d0404
