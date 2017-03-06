@@ -1,4 +1,5 @@
-typography_spectrum: 0.7249873299661581
+layout_spectrum: 0.11526252963192908
+typography_spectrum: 0.13469664356781927
 color:
   brandColors:
     - '#96CA2D'
@@ -6,12 +7,11 @@ color:
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
-  brandStrength: 0.9655027661780541
-  lightness: 0.8104369314151383
-  saturation: 0.8473694555978706
-  rhythmicContrast: 0.10250553643552236
+  brandStrength: 0.5731612528958311
+  lightness: 0.7045326737534845
+  saturation: 0.2176962141389267
+  rhythmicContrast: 1
 github: true
-layout_spectrum: 0.47934928194573606
 name: 'I''m a Front End Developer '
 colors:
   brandColors:
