@@ -20,10 +20,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Projects
-    id: 06f1633c-c9e5-4cf5-8299-f024072d0404
-    type: content
 title: Trang Nguyen
 content: []
 description: UI Developer & UX Designer
