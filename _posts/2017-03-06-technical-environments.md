@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-06T19:41:08.636Z'
-datePublished: '2017-03-06T19:41:09.348Z'
+dateModified: '2017-03-06T19:57:50.407Z'
+datePublished: '2017-03-06T19:57:50.839Z'
 title: Technical Environments
 author: []
 publisher: {}
