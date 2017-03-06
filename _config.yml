@@ -24,9 +24,6 @@ navigation:
   - name: Projects
     id: 06f1633c-c9e5-4cf5-8299-f024072d0404
     type: content
-  - name: Environments
-    id: bdb7bb47-0864-4091-bc49-b262c1cdcc17
-    type: content
 title: Trang Nguyen
 content: []
 description: UI Developer & UX Designer
