@@ -34,3 +34,6 @@ purpose:
   - type: internal
     label: Projects
     item: 06f1633c-c9e5-4cf5-8299-f024072d0404
+  - type: internal
+    label: Technical Environments
+    item: bdb7bb47-0864-4091-bc49-b262c1cdcc17
