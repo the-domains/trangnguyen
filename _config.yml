@@ -1,4 +1,3 @@
-layout_spectrum: 0.47934928194573606
 typography_spectrum: 0.7249873299661581
 color:
   brandColors:
@@ -12,6 +11,7 @@ color:
   saturation: 0.8473694555978706
   rhythmicContrast: 0.10250553643552236
 github: true
+layout_spectrum: 0.47934928194573606
 name: 'I''m a Front End Developer '
 colors:
   brandColors:
@@ -23,6 +23,9 @@ colors:
 navigation:
   - name: Projects
     id: 06f1633c-c9e5-4cf5-8299-f024072d0404
+    type: content
+  - name: Environments
+    id: bdb7bb47-0864-4091-bc49-b262c1cdcc17
     type: content
 title: Trang Nguyen
 content: []
