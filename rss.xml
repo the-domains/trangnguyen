@@ -4,9 +4,16 @@
         <description><![CDATA[Trang Nguyen]]></description>
         <link>http://trangnguyen.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Mar 2017 19:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2017 19:41:47 GMT</lastBuildDate>
         <atom:link href="http://trangnguyen.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Mar 2017 19:35:38 GMT</pubDate>
+        <pubDate>Mon, 06 Mar 2017 19:41:46 GMT</pubDate>
+        <item>
+            <title><![CDATA[Technical Environments]]></title>
+            <description><![CDATA[<h1>Technical Environments</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1df0bfcf-1d0b-4bbf-a0e5-66a9a66499e1.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d98b72c-5bcf-435e-b295-be981244e5d9.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87a2dde7-e903-4196-b0ee-513350c84c58.png">]]></description>
+            <link>http://trangnguyen.me/technical-environments/index.html</link>
+            <guid isPermaLink="false">bdb7bb47-0864-4091-bc49-b262c1cdcc17</guid>
+            <pubDate>Mon, 06 Mar 2017 19:16:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Notable Projects]]></title>
             <description><![CDATA[<h1>Notable Projects</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3eeeb90d-a7e7-4b52-880c-ec84dc9c76fe.jpg">,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f82cf4bd161918ec820452d9122ab860/croprotate.png?cropheight=984&cropwidth=976&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdad9e15a-8638-4ce9-b893-15475ade1450.png&x=24&y=20">,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a814674117d945581a4d902391bf4220/croprotate.png?cropheight=1397&cropwidth=1984&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe1ea2e72-223c-4ba9-b205-8d7711b9f010.png&x=0&y=314">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7af1a751-a307-4376-be83-fd04203539c7.png">]]></description>
