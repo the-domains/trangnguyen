@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-07T22:37:40.069Z'
-datePublished: '2017-03-07T22:37:40.566Z'
-title: Technical Environments
+dateModified: '2017-03-07T22:37:50.925Z'
+datePublished: '2017-03-07T22:37:51.610Z'
+title: Technical Stack
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: technical-environments/index.html
 _type: Article
 
 ---
-# Technical Environments
+# Technical Stack
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1df0bfcf-1d0b-4bbf-a0e5-66a9a66499e1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaa5ca4b-223a-487d-aad0-a6f8962d1c85.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d98b72c-5bcf-435e-b295-be981244e5d9.png)
