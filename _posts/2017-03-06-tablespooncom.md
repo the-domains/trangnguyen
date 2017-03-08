@@ -1,8 +1,10 @@
 ---
 inFeed: false
-description: ''
-dateModified: '2017-03-08T03:45:20.376Z'
-datePublished: '2017-03-08T03:45:20.898Z'
+description: >-
+  Implement global responsive nav component. This component was shared across
+  multiple projects. 
+dateModified: '2017-03-08T04:07:48.038Z'
+datePublished: '2017-03-08T04:07:48.856Z'
 title: tablespoon.com
 author: []
 publisher: {}
@@ -17,5 +19,7 @@ _type: Blurb
 ---
 # [tablespoon.com][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20c810f5-af4d-4c81-8614-531a8398dbd1.png)
+
+Implement global responsive nav component. This component was shared across multiple projects. 
 
 [0]: http://www.tablespoon.com/
