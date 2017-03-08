@@ -21,7 +21,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: 'Tablespoon '
+  - name: 'tablespoon '
     id: fe0a8f20-bdfa-4ad1-9169-655880244d54
     type: content
   - name: bank of internet
