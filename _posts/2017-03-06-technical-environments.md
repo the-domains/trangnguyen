@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-07T22:37:50.925Z'
-datePublished: '2017-03-07T22:37:51.610Z'
+dateModified: '2017-03-08T03:22:06.722Z'
+datePublished: '2017-03-08T03:22:07.686Z'
 title: Technical Stack
 author: []
 publisher: {}
@@ -15,6 +15,9 @@ url: technical-environments/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88707d22-39a1-49bc-b2d7-14da9a30dc21.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a40b9f5-6358-4e8f-aa7a-c3796d824e22.png)
+
 # Technical Stack
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1df0bfcf-1d0b-4bbf-a0e5-66a9a66499e1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaa5ca4b-223a-487d-aad0-a6f8962d1c85.png)
