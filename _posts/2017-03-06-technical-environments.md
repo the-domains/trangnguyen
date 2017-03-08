@@ -1,18 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-08T03:45:20.376Z'
-datePublished: '2017-03-08T03:45:20.885Z'
+dateModified: '2017-03-08T04:28:27.070Z'
+datePublished: '2017-03-08T04:28:27.769Z'
 title: Technical Stack
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-03-06-technical-environments.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-03-06T19:16:30.645Z'
-url: technical-environments/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88707d22-39a1-49bc-b2d7-14da9a30dc21.png)
