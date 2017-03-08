@@ -4,22 +4,22 @@
         <description><![CDATA[Trang B. Salinas]]></description>
         <link>http://trangnguyen.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Mar 2017 03:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2017 03:45:31 GMT</lastBuildDate>
         <atom:link href="http://trangnguyen.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Mar 2017 03:44:55 GMT</pubDate>
-        <item>
-            <title><![CDATA[Technical Stack]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88707d22-39a1-49bc-b2d7-14da9a30dc21.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a40b9f5-6358-4e8f-aa7a-c3796d824e22.png">,<h1>Technical Stack</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1df0bfcf-1d0b-4bbf-a0e5-66a9a66499e1.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaa5ca4b-223a-487d-aad0-a6f8962d1c85.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d98b72c-5bcf-435e-b295-be981244e5d9.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87a2dde7-e903-4196-b0ee-513350c84c58.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bbadc65-bab0-491e-ae42-7bfcc357ef87.png">]]></description>
-            <link>http://trangnguyen.me/technical-environments/index.html</link>
-            <guid isPermaLink="false">bdb7bb47-0864-4091-bc49-b262c1cdcc17</guid>
-            <pubDate>Mon, 06 Mar 2017 19:16:30 GMT</pubDate>
-        </item>
+        <pubDate>Wed, 08 Mar 2017 03:45:23 GMT</pubDate>
         <item>
             <title><![CDATA[Notable Projects]]></title>
             <description><![CDATA[<h1>Notable Projects</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3eeeb90d-a7e7-4b52-880c-ec84dc9c76fe.jpg" title="US Bank">,<p>A redesign of the web application and native application</p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9537f1515b8c4ccd951c0bfe106433f967bca17.png">,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eead6545e8aa26a0b8cf7908edb54d8f3dbae39c.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7af1a751-a307-4376-be83-fd04203539c7.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7946feac-f118-4c36-bbfb-ce50405adea1.png">]]></description>
             <link>http://trangnguyen.me/notable-projects/index.html</link>
             <guid isPermaLink="false">06f1633c-c9e5-4cf5-8299-f024072d0404</guid>
             <pubDate>Mon, 06 Mar 2017 18:53:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Technical Stack]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88707d22-39a1-49bc-b2d7-14da9a30dc21.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a40b9f5-6358-4e8f-aa7a-c3796d824e22.png">,<h1>Technical Stack</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1df0bfcf-1d0b-4bbf-a0e5-66a9a66499e1.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaa5ca4b-223a-487d-aad0-a6f8962d1c85.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d98b72c-5bcf-435e-b295-be981244e5d9.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87a2dde7-e903-4196-b0ee-513350c84c58.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bbadc65-bab0-491e-ae42-7bfcc357ef87.png">]]></description>
+            <link>http://trangnguyen.me/technical-environments/index.html</link>
+            <guid isPermaLink="false">bdb7bb47-0864-4091-bc49-b262c1cdcc17</guid>
+            <pubDate>Mon, 06 Mar 2017 19:16:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
