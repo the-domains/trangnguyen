@@ -33,7 +33,4 @@ navigation:
 title: Trang B. Salinas
 content: []
 description: ''
-purpose:
-  - type: internal
-    label: Technical Stack
-    item: bdb7bb47-0864-4091-bc49-b262c1cdcc17
+purpose: []
