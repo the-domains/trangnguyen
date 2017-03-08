@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-08T03:22:08.795Z'
-datePublished: '2017-03-08T03:22:09.230Z'
+dateModified: '2017-03-08T03:45:20.376Z'
+datePublished: '2017-03-08T03:45:20.885Z'
 title: Technical Stack
 author: []
 publisher: {}
