@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2017-03-08T03:24:20.578Z'
-datePublished: '2017-03-08T03:24:21.034Z'
+dateModified: '2017-03-08T03:31:59.368Z'
+datePublished: '2017-03-08T03:32:00.117Z'
 title: bankofinternet.com
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-08T03:23:26.393Z'
 url: bankofinternetcom/index.html
-_type: Article
+_type: Blurb
 
 ---
 # [bankofinternet.com][0]
