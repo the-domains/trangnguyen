@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Create a sitecore guide layout comprised of multiple components. The page must
   be responsive.
-dateModified: '2017-07-20T20:59:15.514Z'
-datePublished: '2017-07-20T20:59:15.955Z'
+dateModified: '2017-07-20T21:03:21.376Z'
+datePublished: '2017-07-20T21:03:21.845Z'
 title: Sitecore Components
 author: []
 publisher:
