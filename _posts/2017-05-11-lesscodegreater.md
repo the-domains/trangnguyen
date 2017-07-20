@@ -4,8 +4,8 @@ description: >-
   I’m trying out this new fangled tool called thegrid.io for my portfolio. It’s
   suppose to be the new UX AI. The design changes based on content or my
   suggestions. Let me know what you think :).
-dateModified: '2017-07-20T20:59:15.514Z'
-datePublished: '2017-07-20T20:59:15.953Z'
+dateModified: '2017-07-20T21:03:21.376Z'
+datePublished: '2017-07-20T21:03:21.666Z'
 title: ''
 author: []
 publisher: {}
