@@ -1,11 +1,11 @@
 ---
 inFeed: false
 description: >-
-  Implement global responsive nav component. This component was shared across
-  multiple projects. 
-dateModified: '2017-03-08T04:07:48.038Z'
-datePublished: '2017-03-08T04:07:48.856Z'
-title: tablespoon.com
+  A website site that markets the Tablespoon brand. This website is a responsive
+  and is run by Sitecore.
+dateModified: '2017-07-20T20:59:15.514Z'
+datePublished: '2017-07-20T20:59:15.960Z'
+title: Tablespoon.Com
 author: []
 publisher: {}
 via: {}
@@ -17,9 +17,18 @@ url: tablespooncom/index.html
 _type: Blurb
 
 ---
-# [tablespoon.com][0]
+# [Tablespoon.Com][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20c810f5-af4d-4c81-8614-531a8398dbd1.png)
 
-Implement global responsive nav component. This component was shared across multiple projects. 
+A website site that markets the Tablespoon brand. This website is a responsive and is run by Sitecore.
 
-[0]: http://www.tablespoon.com/
+What I did:
+
+* Implement a global navigation component that is driven through Sitecore.
+* This navigation component must work on other core sites.
+* This component must be responsive.
+* The different sites have different animations. For example, how the menu opens and closes.
+* The links in the navigation changed often through Sitecore. For example, one day there might be a link for "Best Recipes" and another day it could be removed or replaced.
+* The business also re-branded the website so I updated all colors, logos, fonts, etc
+
+[0]: https://www.tablespoon.com/
