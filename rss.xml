@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Trang B. Salinas]]></title>
+        <description><![CDATA[Trang B. Salinas]]></description>
+        <link>http://trangnguyen.me/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 20 Jul 2017 19:37:10 GMT</lastBuildDate>
+        <atom:link href="http://trangnguyen.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 20 Jul 2017 19:37:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[Sitecore Components]]></title>
+            <description><![CDATA[<h1>Sitecore Components</h1>,<h2>Guide Layout</h2>,<p>Create a sitecore guide layout comprised of multiple components. The page must be responsive.</p>,<ul><li>The site must be responsive</li><li>The component must be reuseable across multiple websites</li><li>Styles and content must be configurable</li></ul>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cbc8618072aadd74c50ff7e431c8dd668d56bea.jpg"><h1>Betty&apos;s Guide to Thanksgiving</h1><p>From centerpiece dishes to crucial sides and desserts, we&apos;ve got every Thanksgiving recipe you need, plus techniques and tips to make the feast a success!</p></article>,<a href="https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/bettys-thanksgiving-guide" data-role="cta">Betty Crocker Guide</a>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20e68dd493ef97fcfd70b028ad6b962d4e008b9b.jpg"><h1>November Wow Guide: The Easiest-Ever Thanksgiving</h1><p>From easy-yet-impressive appetizers to no-fail classic side dishes, consider the big meal covered. Plus, plenty of pie and easy ideas for the kids&apos; table!</p></article>,<a href="https://www.pillsbury.com/holidays-celebrations/thanksgiving/wow-guide-november-2014" data-role="cta">Pillsbury Guide</a>]]></description>
+            <link>http://trangnguyen.me/sitecore-components/index.html</link>
+            <guid isPermaLink="false">290bbdac-bf23-4aaf-873f-bb16f3e5713b</guid>
+            <pubDate>Thu, 11 May 2017 16:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bettycrocker.com]]></title>
+            <description><![CDATA[<h1>Bettycrocker.com</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86045f21-f4b0-48ed-940a-0a02655ea28f.jpg">,<p>A website site that markets the Betty Crocker brand. This website is responsive and is run by Sitecore.</p>,<p>What I did:</p>,<ul><li>Implement a global navigation component that is driven through Sitecore.</li><li>This navigation component must work on other core sites.</li><li>This component must be responsive.</li><li>The different sites have different animations. For example, how the menu opens and closes.</li><li>The links in the navigation changed often through Sitecore. For example, one day there might be a link for “Best Recipes” and another day it could be removed or replaced.</li><li>Implement slide on/off search option at the top of screen</li></ul>]]></description>
+            <link>http://trangnguyen.me/bettycrockercom/index.html</link>
+            <guid isPermaLink="false">d72846ff-e277-4748-b2fa-6f801a98a2b0</guid>
+            <pubDate>Thu, 11 May 2017 15:24:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Us Bank]]></title>
+            <description><![CDATA[<h1>Us Bank</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95dfcd99-639a-48e1-8071-e123cfd8cc3b.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76564a86-1eb9-4da3-a52a-3e97d6a49fbc.png">,<p>Projects:</p>,<ul><li><a href="https://www.usbank.com/mobile/mobile-app.html" title="">Mobile &amp; Tablet App</a></li><li><a href="https://www.usbank.com/online-banking/internet-banking.html" title="Online Banking Website">Online Banking Website</a></li><li><a href="https://onlinebanking.usbank.com/Auth/EnrollmentDesktop/Verification" title="">Enrollment</a></li></ul>,<p>Us Bank website and native app share the same code. This is done using Cordova (Phonegap) to wrap HTML, JS, CSS and create native app experience. The project involved re-writing and re-branding the Us Bank App and Online Banking Experience</p>,<p>Team: User Experience</p>,<p>Role: Lead Front End Developer</p>,<p>What I did:</p>,<ul><li>Create an object oriented CSS framework using SASS to drive the front end styles</li><li>Marry the OOCSS framework with backbone and handlebars</li><li>Work directly with UX designers and Information Architects to create the best user experience</li><li>Create collaboration between UI developers in India and UX designers in US</li></ul>]]></description>
+            <link>http://trangnguyen.me/us-bank-mobile-app/index.html</link>
+            <guid isPermaLink="false">ff3a477e-6f21-4f4f-9e99-3ddb83dbd75b</guid>
+            <pubDate>Tue, 09 May 2017 15:45:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
