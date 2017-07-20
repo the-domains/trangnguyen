@@ -21,6 +21,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Custom Modular Frameworks
+    id: 2db87b94-2aa4-4d33-8ecc-0c003070ad1e
+    type: content
   - name: us bank
     id: ff3a477e-6f21-4f4f-9e99-3ddb83dbd75b
     type: content
@@ -35,9 +38,6 @@ navigation:
     type: content
   - name: sitecore components
     id: 290bbdac-bf23-4aaf-873f-bb16f3e5713b
-    type: content
-  - name: Custom Modular Frameworks
-    id: 2db87b94-2aa4-4d33-8ecc-0c003070ad1e
     type: content
 title: Trang B. Salinas
 content:
