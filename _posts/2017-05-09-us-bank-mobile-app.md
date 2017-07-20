@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Projects:'
-dateModified: '2017-07-20T19:37:00.329Z'
-datePublished: '2017-07-20T19:37:01.452Z'
+dateModified: '2017-07-20T20:59:15.514Z'
+datePublished: '2017-07-20T20:59:15.959Z'
 title: Us Bank
 author: []
 publisher: {}
