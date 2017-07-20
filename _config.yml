@@ -21,7 +21,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Custom Modular Frameworks
+  - name: custom modular frameworks
     id: 2db87b94-2aa4-4d33-8ecc-0c003070ad1e
     type: content
   - name: us bank
