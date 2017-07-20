@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   A modular framework are made of components that can "live” alone or with other
   components.
-dateModified: '2017-07-20T20:59:15.514Z'
-datePublished: '2017-07-20T20:59:15.957Z'
+dateModified: '2017-07-20T21:03:21.376Z'
+datePublished: '2017-07-20T21:03:21.846Z'
 title: Creating Modular Frameworks
 author: []
 publisher: {}
