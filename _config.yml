@@ -1,16 +1,16 @@
-layout_spectrum: 0.9941468683768543
-typography_spectrum: 0.6560272449604466
+layout_spectrum: 0.13820636042937784
+typography_spectrum: 0.054784678463999294
 color:
   brandColors:
     - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  brandStrength: 0.9364611557576031
-  lightness: 0.12793378272020065
-  saturation: 0.46602308935070835
-  rhythmicContrast: 0.17331537517036616
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  brandStrength: 0.9420029868557127
+  lightness: 0.7439711075853372
+  saturation: 0.6203619702085669
+  rhythmicContrast: 0.06752387556597811
 github: true
 name: 'I''m a Front End Developer '
 colors:
@@ -21,16 +21,99 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: us bank
+    id: ff3a477e-6f21-4f4f-9e99-3ddb83dbd75b
+    type: content
   - name: 'tablespoon '
     id: fe0a8f20-bdfa-4ad1-9169-655880244d54
     type: content
-  - name: bank of internet
-    id: ac52c7cb-4613-4840-b62b-fa3bda89da26
+  - name: pillsbury
+    id: 5fffca40-ee33-4666-9b09-b9514e919c0e
     type: content
-  - name: resume
-    id: 5214f9dc-de9f-4f5a-b809-fbfa08457920
+  - name: bettycrocker
+    id: d72846ff-e277-4748-b2fa-6f801a98a2b0
+    type: content
+  - name: sitecore components
+    id: 290bbdac-bf23-4aaf-873f-bb16f3e5713b
     type: content
 title: Trang B. Salinas
-content: []
-description: ''
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQ5763pPchvw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ5763pPchvw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ5763pPchvw%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Tolga Ozisik
+          url: 'https://www.youtube.com/user/MrTolgaozisik'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      keywords:
+        - tolga ozisik
+        - startup
+        - mobile app
+        - design process
+        - app design
+        - ui
+        - ux
+        - design (industry)
+        - making of
+        - user experience design (industry)
+        - user interface (ontol...
+      description: This is how apps are created for startups by Awesome. awesomenyc.com/
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Q5763pPchvw&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Q5763pPchvw&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=Q5763pPchvw&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Q5763pPchvw&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=Q5763pPchvw&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=Q5763pPchvw'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=Q5763pPchvw
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=Q5763pPchvw
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/Q5763pPchvw'
+      title: UI / UX DESIGN PROCESS
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'I love User Experience. I love Design. I love Object Oriented Anything. '
 purpose: []
